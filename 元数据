@@ -1,0 +1,11 @@
+{
+	"name": "You Ling game #002",
+	"description": "游灵公司特约出品 2",
+	"tokenId": 1,
+	"image": "https://ipfs.io/ipfs/QmTar3bQHsGHZDGBwjGQWny7TTsb5PyuPjvv2WNGUZM4VP?filename=1.png",
+	"external_url": "https://www.infinityfrogs.com",
+	"attributes": [{
+		"trait_type": "color",
+		"value": "red"
+	}]
+}
